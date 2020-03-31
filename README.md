@@ -1,0 +1,1 @@
+# easyrotator-npm
